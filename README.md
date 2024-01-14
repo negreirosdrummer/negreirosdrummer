@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @negreirosdrummer
 - 👀 I’m interested in Python, back-end development, QA, and music! (drumming/Music Production/VSTi plugins)
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on anything that envolves back-end programming with Python 
+- 🌱 I’m currently learning Python, Java, HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on anything that involves back-end programming with Python and other musical projects
 - 📫 How to reach me:
 - negreirosdrummer@gmail.com
 - 
